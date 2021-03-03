@@ -1,0 +1,3 @@
+Here lies text which is to be printed by another program .
+If you can read this then  congratulations mate !
+You've done good !
